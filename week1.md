@@ -9,6 +9,7 @@ This week I develped a simple website for Ecogrow an organization that focuses o
 
 
 Estimated Hours
+
 I spent about 5hrs of my time this week understanding the overview and what is expected of me during this course.
 
 Content Insights
