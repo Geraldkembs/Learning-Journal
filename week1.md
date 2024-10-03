@@ -1,8 +1,10 @@
 # Learning-Journal
 
 Week 1
+
 Learning Activities & Resources
-This week I develped a simple website for Ecogrow an organixation that focuses on healthier horticulture and food production. I studied how the website is organized and its overall structure. I learnt a refresher on the website building blocks including html and bootstrap for styling. I used W3 schools to understand the basics of HTML and CSS
+
+This week I develped a simple website for Ecogrow an organization that focuses on healthier horticulture and food production. I studied how the website is organized and its overall structure. I learnt a refresher on the website building blocks including html and bootstrap for styling. I used W3 schools to understand the basics of HTML and CSS
 
 
 
